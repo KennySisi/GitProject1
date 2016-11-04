@@ -1,0 +1,5 @@
+C:\Kenny\C#\MvvmExample\MvvmExample\MicroMvvm\bin\Debug\MicroMvvm.dll
+C:\Kenny\C#\MvvmExample\MvvmExample\MicroMvvm\bin\Debug\MicroMvvm.pdb
+C:\Kenny\C#\MvvmExample\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.csprojResolveAssemblyReference.cache
+C:\Kenny\C#\MvvmExample\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.dll
+C:\Kenny\C#\MvvmExample\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.pdb

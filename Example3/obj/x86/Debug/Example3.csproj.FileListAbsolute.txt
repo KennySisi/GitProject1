@@ -1,0 +1,13 @@
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\bin\Debug\Example3.exe
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\bin\Debug\Example3.pdb
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\MainWindow.g.cs
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\App.g.cs
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\Example3_MarkupCompile.cache
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\Example3_MarkupCompile.lref
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\MainWindow.baml
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\Example3.g.resources
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\Example3.Properties.Resources.resources
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\Example3.csproj.GenerateResource.Cache
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\Example3.exe
+C:\Kenny\C#\MvvmExample\MvvmExample\Example3\obj\x86\Debug\Example3.pdb
